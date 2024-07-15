@@ -1,0 +1,266 @@
+{
+  "user": [
+    {
+      "name": "Veronica Sacnhez",
+      "mobNumber": "960879739",
+      "age": 22,
+      "dob": "2002-06-03",
+      "email": "admin@gmail.com",
+      "password": "123456",
+      "address": {
+        "addLine1": "District Center",
+        "addLine2": "Janakpuri",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "zipCode": "110052"
+      },
+      "language": [
+        "English",
+        "Hindi",
+        "Bhojpuri",
+        "Telgu",
+        "Kannad"
+      ],
+      "gender": "Male",
+      "aboutYou": "I...",
+      "uploadPhoto": "abc.png",
+      "agreetc": true,
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "aboutYou": "HGHJBHMBMBNHTRTYRYgfhfjfjh",
+      "age": 29,
+      "agreetc": true,
+      "dob": "2024-01-02",
+      "email": "vsanchez@gmail.com",
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "876444654",
+        "addLine2": "FFFFHFGHHGFH",
+        "city": "GFHFHFFHG",
+        "state": "...",
+        "zipCode": "86764664646"
+      },
+      "language": [
+        "Hindi"
+      ],
+      "mobNumber": "8446878784466465",
+      "name": "TESTY",
+      "password": "123456789",
+      "uploadPhoto": "",
+      "role": "seller",
+      "id": 2
+    },
+    {
+      "aboutYou": "Angular 17",
+      "age": 22,
+      "agreetc": true,
+      "dob": "2002-06-07",
+      "email": "msanchez@gmail.com",
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "new delho",
+        "addLine2": "wx -1520",
+        "city": "lima",
+        "state": "...",
+        "zipCode": "325863558"
+      },
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "mobNumber": "83685222555",
+      "name": "Maria fernanda",
+      "password": "123456789",
+      "uploadPhoto": "C:\\fakepath\\Angular 15 (32).png",
+      "role": "buyer",
+      "id": 3
+    },
+    {
+      "aboutYou": "sobre mi",
+      "age": 31,
+      "agreetc": true,
+      "dob": "1995-12-01",
+      "email": "gsanchez@gmail.com",
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "somthing.",
+        "addLine2": "about",
+        "city": "lima",
+        "state": "UP",
+        "zipCode": "2359865"
+      },
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "mobNumber": "86744645764",
+      "name": "Mr. Geraldine",
+      "password": "123456789",
+      "uploadPhoto": "C:\\fakepath\\Angular 17 Admin (6).png",
+      "role": "buyer",
+      "id": 4
+    },
+    {
+      "aboutYou": "abcabcabc",
+      "age": 4,
+      "agreetc": true,
+      "dob": "1998-12-02",
+      "email": "test@gmail.com",
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "hjhjgkhkljljl",
+        "addLine2": "jljklj",
+        "city": "ljljljljl",
+        "state": "MP",
+        "zipCode": "123456"
+      },
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "mobNumber": "5564646466464",
+      "name": "Test",
+      "password": "123456789",
+      "uploadPhoto": "C:\\fakepath\\Angular 17 Admin (6).png",
+      "role": "seller",
+      "id": 5
+    },
+    {
+      "aboutYou": "aksdkahkshdkh",
+      "age": 78,
+      "agreetc": true,
+      "dob": "5588-02-05",
+      "email": "abc123@gmail.com",
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "46464646",
+        "addLine2": "446",
+        "city": "Lima",
+        "state": "MP",
+        "zipCode": "9865656"
+      },
+      "language": [
+        "English"
+      ],
+      "mobNumber": "877644644464",
+      "name": "abhi",
+      "password": "646464654646",
+      "uploadPhoto": "",
+      "role": "buyer",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Reloj",
+      "uploadPhoto": "https://relojesyestilo.es/wp-content/uploads/2021/10/RE_178-587x780-1.jpg",
+      "productDesc": "Reloj azul.",
+      "mrp": "1000",
+      "dp": "499",
+      "status": "publish"
+    },
+    {
+      "id": 2,
+      "name": "Camarote",
+      "uploadPhoto": "https://promart.vteximg.com.br/arquivos/ids/6249678-1000-1000/image-b4a38edac8d4409399ff03729f856088.jpg?v=637952279018770000",
+      "productDesc": "Camarote de plaza 1/2.",
+      "mrp": "123",
+      "dp": "99",
+      "status": "publish"
+    },
+    {
+      "id": 3,
+      "name": "Televisor",
+      "uploadPhoto": "https://i.ytimg.com/vi/Rzf5tn3wVYI/maxresdefault.jpg",
+      "productDesc": "Televisor de 50' ",
+      "mrp": "500",
+      "dp": "399",
+      "status": "publish"
+    },
+    {
+      "id": 4,
+      "name": "PS5",
+      "uploadPhoto": "https://as02.epimg.net/meristation/imagenes/2020/08/20/videos/1597919803_530309_1597919867_noticia_normal.jpg",
+      "productDesc": "PS5",
+      "mrp": "500",
+      "dp": "399",
+      "status": "publish"
+    },
+    {
+      "id": 5,
+      "name": "Zapatillas",
+      "uploadPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJYr2MhI-LyZm8E8sngDs3vEc-WSifuAR0hA&s",
+      "productDesc": "Zapatillas talla 36 color negro",
+      "mrp": "300",
+      "dp": "199",
+      "status": "publish"
+    },
+    {
+      "id": 6,
+      "name": "Casaca negra",
+      "uploadPhoto": "https://calvinperu.vteximg.com.br/arquivos/ids/286411-650-709/40FM512_001_4.jpg?v=638446740228100000",
+      "productDesc": "Casaca negra.",
+      "mrp": "1000",
+      "dp": "499",
+      "status": "publish"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "userId": 3,
+      "sellerId": 2,
+      "product": {
+        "id": 1,
+        "name": "Reloj",
+        "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/jcf487k0/curtain/w/e/y/elegant-cream-door-curtains-set-of-2-213-soe-fsb-120-120-eyelet-original-imaffk7f9wng4v4m.jpeg",
+        "productDesc": "Reloj azul",
+        "mrp": "1000",
+        "dp": "499",
+        "status": "publish"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "dasdasda",
+        "addLine2": "dsasd",
+        "city": "dsasdasdasd",
+        "state": "Choose...",
+        "zipCode": 560037
+      },
+      "contact": "09040398006",
+      "dateTime": "18/07/2019"
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "sellerId": 2,
+      "product": {
+        "id": 3,
+        "name": "Televisor",
+        "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/jjsw4nk0/cushion-pillow-cover/e/z/z/epl12-metro-living-original-imaf7ah6zstjyevd.jpeg",
+        "productDesc": "Televisor de 50' ",
+        "mrp": "500",
+        "dp": "399",
+        "status": "draft"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "new delho",
+        "addLine2": "wx -1520",
+        "city": "delhi",
+        "state": "...",
+        "zipCode": "325863558"
+      },
+      "contact": "83685222555",
+      "dateTime": "1/27/2024"
+    }
+  ]
+}

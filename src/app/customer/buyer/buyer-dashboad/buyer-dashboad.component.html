@@ -1,0 +1,20 @@
+<br>
+
+<div class="row">
+    <div class="col-sm-3 product" *ngFor="let product of all_products;">
+        <div class="card">
+            <img src="{{product.uploadPhoto}}" class="card-img-top" alt="{{product.name}}">
+            <div class="card-body">
+                <h4 class="card-title">{{product.name}}</h4>
+                <p><b>$ s/n descuento </b>
+                <p>{{product.mrp}}</p>
+                <p><span class="float-right"><strong> $c/n descuento</strong>:
+                        {{product.dp}}</span></p>
+                <p class="card-text">{{product.productDesc}}</p>
+                <a class="btn  float-left" style="background-color: rgb(98, 148, 88); color:aliceblue" (click)="addToCart()">Agregar</a>
+                <a class="btn  float-right" style="background-color: rgb(48, 87, 149); color:aliceblue" (click)="buyProduct(product.id)">Comprar</a>
+
+            </div>
+        </div>
+    </div>
+</div>
