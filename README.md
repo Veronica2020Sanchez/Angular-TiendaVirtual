@@ -8,5 +8,5 @@ Paso 2: ejecutar `npm i json-server`.
 Paso 3: En la raiz del proyecto, abrir la consola situada en la carpeta, y ejecutar el siguiente comando `npx json-server mock-api-data.json`
 Paso 4: Para correr el proyecto, ejeuctar  `ng serve` . El cual, se abrirá en el link:  `http://localhost:4200/`.
 
-Paso 5: Para inicar sesion: en email ingresar lo siguiente:  gsanchez@gmail.com
-y en contraseña ingresar 123456789
+Paso 5: Para inicar sesion: en email ingresar lo siguiente:  `gsanchez@gmail.com`
+y en contraseña ingresar `123456789`
